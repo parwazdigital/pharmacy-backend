@@ -782,3 +782,15 @@
 2024-09-16T13:22:24.481Z [error]: User not found
 2024-09-17T05:24:05.719Z [error]: User not found
 2024-09-17T05:24:10.705Z [error]: User not found
+2024-09-17T10:11:32.230Z [error]: getaddrinfo ENOTFOUND ac-iqgq5gy-shard-00-00.zrvhibc.mongodb.net
+2024-09-17T10:11:51.729Z [error]: getaddrinfo ENOTFOUND ac-iqgq5gy-shard-00-00.zrvhibc.mongodb.net
+2024-09-17T16:27:05.742Z [error]: getaddrinfo ENOTFOUND ac-iqgq5gy-shard-00-00.zrvhibc.mongodb.net
+2024-09-17T16:27:05.810Z [error]: getaddrinfo ENOTFOUND ac-iqgq5gy-shard-00-00.zrvhibc.mongodb.net
+2024-09-17T16:27:24.270Z [error]: getaddrinfo ENOTFOUND ac-iqgq5gy-shard-00-00.zrvhibc.mongodb.net
+2024-09-17T16:27:24.313Z [error]: getaddrinfo ENOTFOUND ac-iqgq5gy-shard-00-00.zrvhibc.mongodb.net
+2024-09-17T16:28:29.661Z [error]: User not found
+2024-09-17T16:28:29.687Z [error]: User not found
+2024-09-27T07:08:22.267Z [error]: User not found
+2024-09-27T07:08:22.311Z [error]: User not found
+2024-09-27T07:08:23.024Z [error]: User not found
+2024-09-27T07:08:23.051Z [error]: User not found
