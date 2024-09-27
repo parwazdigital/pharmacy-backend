@@ -5,9 +5,10 @@
 	"description": "Pharma is an online shopping  store.",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"server": "nodemon index.js"
-	},
+		  "start": "node index.js",
+		  "server": "nodemon index.js"
+		},
+	  
 	"keywords": [
 		"store",
 		"pharma",
